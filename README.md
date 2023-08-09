@@ -11,4 +11,4 @@ Research: https://www.figma.com/file/CaFFJE6rvPuWSJMWiNCkMC/Research?type=design
 
 Designed By:\
 Sai Asrith Devisetti,\
-VecTech Intern.\
+VecTech Intern.

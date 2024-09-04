@@ -9,6 +9,9 @@ Organizations: https://www.figma.com/file/lfEjfDoa2XrsWatomv2EzL/Organisations'?
 News: https://www.figma.com/file/6GAg8jqOu95pNACNbrZuxH/News?type=design&node-id=1%3A232&t=QFb1JiOsqN4Oz7kn-1   \
 Research: https://www.figma.com/file/CaFFJE6rvPuWSJMWiNCkMC/Research?type=design&node-id=0%3A1&t=MvCKvrywpRh0JPGg-1 
 
+### Kafsco Fixr Mobile and Website:
+Link: https://www.figma.com/design/Ir45M721uRhs3WnBN9dD1m/Mobile-Preview?node-id=521-27&t=Up3K43HYsaZld3kw-1
+
 Designed By:\
 Sai Asrith Devisetti,\
-VecTech Intern.
+UI/UX Intern.
